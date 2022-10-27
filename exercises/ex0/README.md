@@ -1,4 +1,4 @@
-1. Download the [zip-file](./exercises/Custom_purchase_order_template.zip). 
+1. Download the [zip-file](./Custom_purchase_order_template.zip). 
 
 2. Navigate to the template overview, identify the 'Import Template' button on the very right and click it <img src="https://user-images.githubusercontent.com/33467822/197553317-4a4c2366-6ee3-482a-8150-f11576d14900.png" width="800">
 
