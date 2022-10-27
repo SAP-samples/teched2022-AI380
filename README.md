@@ -54,18 +54,4 @@ Once the account is generated, you can create your service instance for Document
 *Duration: approximately 40 minutes*
 
 #### Alternative 
-Instead of creating the schema and template, they can also be imported by navigating to the template screen and clicking the 'Import Template' button and uploading the [zip-file](./Custom_purchase_order_template.zip). To do so, follow these steps:
-
-* Navigate to the template overview, identify the 'Import Template' button on the very right and click it <img src="https://user-images.githubusercontent.com/33467822/197553317-4a4c2366-6ee3-482a-8150-f11576d14900.png" width="800">
-* Select the downloaded zip file <img src="https://user-images.githubusercontent.com/33467822/197553569-589bcae5-bd1a-47c8-b74f-f150ea5c9a1c.png" width="800">
-* A new template should appear in the overview with status 'Draft' <img src="https://user-images.githubusercontent.com/33467822/197553995-ba64d741-f53c-450e-9120-0d7de96dd459.png" width="800"> 
-* Open the template details by clicking on it and click on 'Activate' <img src="https://user-images.githubusercontent.com/33467822/197554174-47dbae56-af38-46b1-b1f0-5ef3da3d3e48.png" width="800">
-
-*Duration: approximately 5 minutes*
-
-## How to obtain support
-
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
-
-## License
-Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+Instead of creating the schema and template, they can also be imported by navigating to the template screen and clicking the 'Import Template' button and uploading the [zip-file](./Custom_purchase_order_template.zip). To do so, follow these steps here.
