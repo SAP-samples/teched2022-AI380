@@ -56,7 +56,7 @@ Once the account is generated, you can create your service instance for Document
 #### Short-cut to Exercise 3 (alternative approach) 
 Instead of creating the schema and annotating the template, it can also be easily  imported into your project by navigating to the template screen and clicking the 'Import Template' button. To do so, follow these steps [here](https://github.com/SAP-samples/teched2022-AI380/tree/main/exercises).
 
-*Duration: approximately 5 minutes
+*Duration: approximately 5 minutes*
 
 ## How to obtain support
 
