@@ -54,4 +54,4 @@ Once the account is generated, you can create your service instance for Document
 *Duration: approximately 40 minutes*
 
 #### Alternative (short-cut) approach to Exercise 3 
-Instead of creating the schema and annotating the template, it can also be imported into your project. To do so, follow these steps [here](https://github.com/SAP-samples/teched2022-AI380/blob/main/exercises/ex0/README.md).
+Instead of creating the schema and annotating the template, it can also be easily  imported into your project by navigating to the template screen and clicking the 'Import Template' button. To do so, follow these steps [here](https://github.com/SAP-samples/teched2022-AI380/blob/main/exercises/ex0/README.md).
