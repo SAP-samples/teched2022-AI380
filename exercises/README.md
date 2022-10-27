@@ -9,10 +9,3 @@
 5. Open the template details by clicking on it and click on 'Activate' <img src="https://user-images.githubusercontent.com/33467822/197554174-47dbae56-af38-46b1-b1f0-5ef3da3d3e48.png" width="800">
 
 *Duration: approximately 5 minutes*
-
-## How to obtain support
-
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
-
-## License
-Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
