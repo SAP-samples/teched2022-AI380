@@ -1,26 +1,13 @@
-# Level 1 Heading
+* Navigate to the template overview, identify the 'Import Template' button on the very right and click it <img src="https://user-images.githubusercontent.com/33467822/197553317-4a4c2366-6ee3-482a-8150-f11576d14900.png" width="800">
+* Select the downloaded zip file <img src="https://user-images.githubusercontent.com/33467822/197553569-589bcae5-bd1a-47c8-b74f-f150ea5c9a1c.png" width="800">
+* A new template should appear in the overview with status 'Draft' <img src="https://user-images.githubusercontent.com/33467822/197553995-ba64d741-f53c-450e-9120-0d7de96dd459.png" width="800"> 
+* Open the template details by clicking on it and click on 'Activate' <img src="https://user-images.githubusercontent.com/33467822/197554174-47dbae56-af38-46b1-b1f0-5ef3da3d3e48.png" width="800">
 
-In this exercise, you will...
+*Duration: approximately 5 minutes*
 
-## Level 2 Heading
+## How to obtain support
 
-After completing these steps you will have....
+Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
-
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
-
-## Summary
-
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+## License
+Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
