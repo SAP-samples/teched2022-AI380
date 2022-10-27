@@ -1,8 +1,8 @@
-# AI360 - Dive into Business Document Processing with AI Step by Step
+# AI380 - Dive into Business Document Processing with AI Step by Step (virtual session)
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called AI360 - Dive into Business Document Processing with AI Step by Step.  
+This repository contains the material for the SAP TechEd 2022 session called AI380 - Dive into Business Document Processing with AI Step by Step.  
 
 ## Overview
 
