@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-AI380)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-AI380)
+
 # AI380 - Dive into Business Document Processing with AI Step by Step (virtual session)
 
 ## Description
